@@ -7,6 +7,15 @@
         "owner": "cosmicflow2512",
         "category": "General",
         "imageUrl": "https://raw.githubusercontent.com/cosmicflow2512/jellyfin-strm-download/master/images/logo.png",
-        "versions": []
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "- 1.0.0.0: Erste Version des Forks.",
+                "targetAbi": "12.1.0.0",
+                "sourceUrl": "https://raw.githubusercontent.com/cosmicflow2512/jellyfin-strm-download/master/releases/strmdownloadproxy_1.0.0.0.zip",
+                "checksum": "360ff99e240aafeb560fc58e951e609c",
+                "timestamp": "2026-09-15T16:50:43Z"
+            }
+        ]
     }
 ]

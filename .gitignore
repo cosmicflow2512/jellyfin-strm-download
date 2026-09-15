@@ -6,3 +6,4 @@ obj/
 Jellyfin.Plugin.StrmDownload/artifact/
 artifact/
 *.zip
+!releases/*.zip
